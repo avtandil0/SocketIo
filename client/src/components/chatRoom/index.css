@@ -1,0 +1,23 @@
+.app {
+    padding: 14px;
+    background-color: rgb(245, 240, 240);
+
+}
+
+.chat {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    width: 100%;
+}
+
+.chatRoom {
+    display: flex;
+}
+
+.users {
+    width: 230px;
+    border-color:cadetblue;
+    border-style: solid;
+}
